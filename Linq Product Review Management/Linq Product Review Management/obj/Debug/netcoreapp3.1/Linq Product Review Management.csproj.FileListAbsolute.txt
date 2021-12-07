@@ -1,0 +1,14 @@
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.exe
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.deps.json
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.runtimeconfig.json
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.dll
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\bin\Debug\netcoreapp3.1\Linq Product Review Management.pdb
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.AssemblyInfo.cs
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.dll
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.pdb
+C:\Users\CSC\source\repos\Linq Product Review Management\Linq Product Review Management\obj\Debug\netcoreapp3.1\Linq Product Review Management.genruntimeconfig.cache
